@@ -1,0 +1,8 @@
+ "name": "your-username/my-laravel-shop",
+    "type": "project",
+    "description": "My Laravel Shopping Cart",
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^8.0",
+        "gloudemans/shoppingcart": "^2.6"
+    }
